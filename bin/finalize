@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# bin/supply <build-dir>
+# bin/compile <build-dir> <cache-dir>
 
 # fail fast
 set -e
